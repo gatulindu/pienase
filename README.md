@@ -8,7 +8,7 @@ Pass a HTML file it's run in `localhost:8080`
 pie best.html
 ```
 
-# Install
+# Install 💿
 
 Runs a `build.sh`
 
