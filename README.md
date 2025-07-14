@@ -1,4 +1,4 @@
-# Pienase
+# Pienase 🍍
 Pienase is Simples Minimal Server For You Aplication 💻
 
 ## How To Use 😺
@@ -22,4 +22,4 @@ Install Dir? /bin/bestapps
 ```
 
 ## Licence 📄
-MIT
+[MIT License](https://github.com/gatulindu/pienase/blob/main/LICENSE)
